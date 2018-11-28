@@ -28,3 +28,8 @@ git ftp push
 
 ## Upload to Remote
 
+
+## LESS WATCH
+less-watch-compiler [options] <source_dir> <destination_dir> [main-file]
+
+f.e. less-watch-compiler ./src ./dist makeup.less
