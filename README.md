@@ -8,7 +8,9 @@ Install via wp-install.sh
 
 ## Git-FTP
 git config git-ftp.url "ftp://ftp.example.net:21/public_html"
+
 git config git-ftp.user "ftp-user"
+
 git config git-ftp.password "secr3t"
 
 ### Upload all files
